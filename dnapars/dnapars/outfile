@@ -1,0 +1,25 @@
+
+DNA parsimony algorithm, version 3.698
+
+
+One most parsimonious tree found:
+
+
+  +--------------------Delta     
+  |  
+  1---------------------Gamma     
+  |  
+  +------------------Beta      
+  |  
+  +-------------Alpha     
+
+
+requires a total of     32.000
+
+  between      and       length
+  -------      ---       ------
+     1      Delta        0.342593
+     1      Gamma        0.361111
+     1      Beta         0.324074
+     1      Alpha        0.231481
+

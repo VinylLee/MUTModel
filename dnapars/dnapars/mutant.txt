@@ -1,0 +1,11 @@
+m1  Replace "ns=1<<G” by "ns=1<<C"in line 720 in file "seq.c
+m2  Replace "ally[alias[i-1]-1]!=alias[i-1]”by”ally[alias[i-1]-1>=alias[i-1]” in line 553 in file "seq.c'
+m3  Replace "i<b" by "i<=b" in line 1097 in file "seq.c"
+m4  Replace "j=i+1"by "j=i-1"in line 555 in file "seq.c"
+m5  Replace "j<=(long)O"by "j>(long)O”in line 994 in file "seq.c
+m6  Replace "itemp=alias[i-1]" by "itemp=alias[i+1]”in line 563 in file"seq.c"
+m7  Replace"j<=(long)O" by "j>=(long)O”in line 1119 in file"seq.c"
+m8  Replace"p->numsteps[i]+=weight[i]" by"p->numsteps[i]-=weightli]”in line 946 in file "seq.c”
+m9  Replace "j<=(long)O" by "j>(long)O"in line 1126 in file "seq.c'
+m10 Replace "(i==j) by "(i!=j) in line 2700 in file "seq.c”
+
